@@ -48,6 +48,7 @@ else
         <h2>Picture</h2>
         <ul>
             <img src="pic_trulli.jpg" alt="Italian Trulli">
+          k
         </ul>
     </section>
 
